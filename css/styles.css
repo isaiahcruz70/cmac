@@ -1,0 +1,104 @@
+@import url('https://fonts.googleapis.com/css?family=Archivo+Narrow|Fascinate|Lobster&display=swap');
+
+#bimg {
+    position: fixed; 
+    top: -178px; 
+    left: 0; 
+      
+    /* Preserve aspet ratio */
+    min-width: 100%;
+    min-height: 100%;
+  }
+
+
+h1 {
+    position: absolute;
+    font-family: 'Fascinate', cursive;
+    text-align: center;
+    font-size: 70px;
+    color: #05c1ff;
+    text-shadow: 1px 1px 2px #0a0a0a;
+    margin: -59px 157px;
+}
+
+h2 {
+    position: relative;
+    font-family: 'Lobster', cursive;
+    text-align: right;
+    font-size: 60px;
+    color: #05c1ff;
+    text-shadow: 1px 1px 2px #0a0a0a;
+    margin: 3px 194px;
+    width: 1043px;
+}
+
+
+.logo {
+    position: absolute;
+    margin: -16px -15px;
+    height: 171px;
+}
+
+/* .main_img1 {
+    background-image: url('../img/class.jpg');
+    max-width:  100%;
+    max-height: 100%;
+    /* z-index: 20;
+} */ */
+
+.container-fluid {
+    padding: 0;
+    margin: 0;
+}
+
+li {
+    position: absolute;
+}
+
+
+h3 {
+    position: relative;
+    font-family: 'Archivo Narrow', sans-serif;
+    text-align: right;
+    font-size: 28px;
+    color: #05c1ff;
+    text-shadow: 1px 1px 2px #0a0a0a;
+    margin: 214px 850px;
+    width: 126px;
+}
+
+/* .hero-image {
+    background-image: url(".jpg"); /* The image used */
+    background-color: #cccccc; /* Used if the image is unavailable */
+    height: 500px; /* You must set a specified height */
+    background-position: center; /* Center the image */
+    background-repeat: no-repeat; /* Do not repeat the image */
+    background-size: cover; /* Resize the background image to cover the entire container */
+  } */
+
+  .size {
+    font-size: 15px;
+    width: 100px;
+    margin: 17px 971px;
+}
+  
+
+  .size1 {
+    font-size: 30px;
+    width: 794px;
+    margin: 15px 445px;
+  }
+
+  p {
+      position: relative;
+  }
+
+  .h2size {
+    margin: 212px 156px;
+  }
+
+.h2 {
+    margin: -208px 110px;
+    font-family: 'Archivo Narrow', sans-serif;
+    color: aqua;
+}
